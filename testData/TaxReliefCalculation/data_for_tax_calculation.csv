@@ -1,0 +1,11 @@
+${TC};${natid};${name};${gender};${salary};${birthday};${age};${tax}
+age_at_most_18_male;111111;NikhilDas;M;4000;04042006;17;20
+age_at_most_35_male;222222;NikhilRam;M;4000;04041992;31;20
+age_at_most_50_male;333333;NikhilBam;M;4000;04041978;45;20
+age_at_most_75_male;444444;NikhilKam;M;4000;15051952;71;20
+age_at_least_76_male;555555;NikhilVam;M;4000;01011946;77;20
+age_at_most_18_female;666666;AnnaDas;F;4000;04042006;17;20
+age_at_most_35_female;777777;AnnaRam;F;4000;04041992;31;20
+age_at_most_50_female;888888;AnnaBam;F;4000;04041978;45;20
+age_at_most_75_female;999999;AnnaKam;F;4000;15051952;71;20
+age_at_least_76_female;101010;AnnaVam;F;4000;01011946;77;20

@@ -1,0 +1,7 @@
+﻿${TC};${person_data};${expected_status_code};${expected_message}
+AC1_Post_Request_Success_200;{"birthday": "01011992", "gender": "M", "name": "Dwan", "natid": "222333", "salary": "7000", "tax": "21"};200;OK
+AC1_Post_Request_Alright_202;{"birthday": "12011992", "gender": "M", "name": "Jonson", "natid": "222333", "salary": "7000", "tax": "21"};202;Alright
+AC1_Post_Request_Invalid_Date_Format_500;{"birthday": "14Feb1990", "gender": "M", "name": "Jonson", "natid": "222333", "salary": "7000", "tax": "21"};500;could not be parsed at index 2
+AC1_Post_Request_Invalid_Gender_500;{"birthday": "12011992", "gender": "Test", "name": "Rock", "natid": "222333", "salary": "7000", "tax": "21"};500;could not execute statement
+AC1_Post_Request_Invalid_Salary_500;{"birthday": "12011992", "gender": "M", "name": "Jonson", "natid": "222333", "salary": "Test", "tax": "21"};500;No message available
+AC1_Post_Request_Invalid_Tax_500;{"birthday": "12011992", "gender": "M", "name": "Jonson", "natid": "222333", "salary": "7000", "tax": "Test"};500;No message available

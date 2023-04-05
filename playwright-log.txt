@@ -1,0 +1,514 @@
+{"level":30,"time":"2023-04-05T13:49:13.852Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Listening on 55490"}
+{"level":30,"time":"2023-04-05T13:49:13.989Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:13.990Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.002Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.002Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.029Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.029Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.033Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.033Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.057Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.057Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.063Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.063Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.089Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.089Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.096Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.096Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.127Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.128Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.131Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.131Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.161Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.161Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.165Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.165Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.190Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.191Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.196Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.196Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.212Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.212Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.221Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.221Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.241Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.241Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.244Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.244Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.268Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.268Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.271Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.271Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.296Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.296Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.300Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.300Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.326Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.326Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.329Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.329Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.353Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.353Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.356Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.356Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.382Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.382Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.386Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.386Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.397Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.397Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.399Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.399Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.408Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.408Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.411Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.411Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9406:15)
+    at PlaywrightServer.getActiveBrowser (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:9952:59)
+    at PlaywrightServer.setTimeout (d:\robotvenv\lib\site-packages\Browser\wrapper\index.js:10197:69)
+    at d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (d:\robotvenv\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-04-05T13:49:14.419Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.419Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.422Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.423Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:14.427Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-04-05T13:49:14.831Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-04-05T13:49:14.834Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:14.835Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-04-05T13:49:14.851Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:15.054Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Video path: undefined"}
+{"level":30,"time":"2023-04-05T13:49:15.054Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:15.665Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:15.677Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:15.677Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //*[@class='m-4'] in page."}
+{"level":30,"time":"2023-04-05T13:49:15.793Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Retrieved text for element //*[@class='m-4'] containing List of working class heroes and their tax relief\nNatId\tRelief\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92"}
+{"level":30,"time":"2023-04-05T13:49:15.794Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:15.798Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //input[@type='file'] in page."}
+{"level":30,"time":"2023-04-05T13:49:16.318Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-04-05T13:49:16.318Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //*[@class='m-4'] in page."}
+{"level":30,"time":"2023-04-05T13:49:16.432Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-04-05T13:49:16.436Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:16.436Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //*[@class='m-4'] in page."}
+{"level":30,"time":"2023-04-05T13:49:16.451Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Retrieved text for element //*[@class='m-4'] containing List of working class heroes and their tax relief\nNatId\tRelief\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00"}
+{"level":30,"time":"2023-04-05T13:49:16.451Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:16.460Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.462Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.463Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.465Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.468Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:16.468Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:16.468Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:16.472Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.474Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.475Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:16.475Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:16.476Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:16.477Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:16.480Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.481Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.483Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:16.483Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:16.483Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:16.485Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:16.506Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Removed page=a6f68581-b048-4858-9efd-ea838f8068fd from context=a35a38fb-9e1a-4574-a540-fa2079ee8846 page stack"}
+{"level":30,"time":"2023-04-05T13:49:16.525Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:16.537Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.537Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:16.543Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:16.543Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:16.547Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:16.547Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-04-05T13:49:16.556Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:16.702Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Video path: undefined"}
+{"level":30,"time":"2023-04-05T13:49:16.702Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:17.241Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:17.248Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:17.248Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //*[@class='m-4'] in page."}
+{"level":30,"time":"2023-04-05T13:49:17.341Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Retrieved text for element //*[@class='m-4'] containing List of working class heroes and their tax relief\nNatId\tRelief\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00"}
+{"level":30,"time":"2023-04-05T13:49:17.341Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:17.345Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //input[@type='file'] in page."}
+{"level":30,"time":"2023-04-05T13:49:17.572Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:17.572Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //*[@class='m-4'] in page."}
+{"level":30,"time":"2023-04-05T13:49:17.671Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Retrieved text for element //*[@class='m-4'] containing List of working class heroes and their tax relief\nNatId\tRelief\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00\n1111$$\t3980.00\n2222$$\t3184.00\n3333$$\t1990.00\n4444$$\t1460.66\n5555$$\t199.00\n6666$$\t4480.00\n7777$$\t3684.00\n8888$$\t2490.00\n9999$$\t1960.66\n1010$$\t699.00\n2223$$\t5583.00\n2223$$\t5583.00\n2223$$\t5583.00\n3334$$\t50.92\n2223$$\t5583.00\n3334$$\t50.92\n1234$$\t3960.00\n6543$$\t3684.00"}
+{"level":30,"time":"2023-04-05T13:49:17.671Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:17.677Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.679Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.680Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.681Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.683Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:17.683Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:17.683Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:17.687Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.689Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.690Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:17.690Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:17.691Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:17.691Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:17.693Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.694Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.695Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:17.695Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:17.695Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:17.697Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:17.707Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Removed page=2c84129b-4fc0-41f6-8361-a454d2b3b26c from context=0e50d6d0-35d6-45e5-9f22-1c7ababd93c6 page stack"}
+{"level":30,"time":"2023-04-05T13:49:17.729Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:17.738Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.739Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.756Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.756Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.759Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:17.759Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.115Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.115Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.118Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.119Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.754Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.754Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.758Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.758Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.778Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.778Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.788Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:18.788Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:22.253Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:22.253Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:22.256Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:22.256Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:25.670Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:25.670Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:25.674Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:25.674Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:29.094Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:29.094Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:29.097Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:29.097Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:32.521Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:32.521Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:32.524Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:32.524Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:35.939Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:35.939Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:35.943Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:35.943Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:39.350Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:39.350Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:39.353Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:39.353Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:42.777Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:42.777Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:42.784Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:42.784Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:46.205Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:46.205Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:46.208Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:46.208Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:49.629Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:49.629Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:49.632Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:49.632Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.071Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.071Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.075Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.076Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.087Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.087Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.089Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.089Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.092Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:53.092Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:53.094Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:53.094Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-04-05T13:49:53.101Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:53.242Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Video path: undefined"}
+{"level":30,"time":"2023-04-05T13:49:53.243Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:53.760Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:53.769Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getStyle"}
+{"level":30,"time":"2023-04-05T13:49:53.770Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Getting css of element on page"}
+{"level":30,"time":"2023-04-05T13:49:53.770Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //a[@href=\"dispense\"] in page."}
+{"level":30,"time":"2023-04-05T13:49:53.891Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getStyle"}
+{"level":30,"time":"2023-04-05T13:49:53.899Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.901Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.902Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.904Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.905Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:53.905Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:53.905Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:53.909Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.911Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.912Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:53.912Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:53.913Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:53.913Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:53.915Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.918Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.919Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:53.919Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:53.919Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:53.920Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:53.930Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Removed page=bfc9fb7f-6b21-4f37-99cd-8a8e22e2ffab from context=a25c6d7a-b805-4262-8d03-30a83ff96a9f page stack"}
+{"level":30,"time":"2023-04-05T13:49:53.948Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:53.954Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.955Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:53.960Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:53.960Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:53.963Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:53.963Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-04-05T13:49:53.969Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:54.099Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Video path: undefined"}
+{"level":30,"time":"2023-04-05T13:49:54.099Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:54.598Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:54.604Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:54.604Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //a[@href=\"dispense\"] in page."}
+{"level":30,"time":"2023-04-05T13:49:54.746Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Retrieved text for element //a[@href=\"dispense\"] containing Dispense Now"}
+{"level":30,"time":"2023-04-05T13:49:54.746Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:54.752Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.753Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.754Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.756Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.757Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:54.758Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:54.758Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:54.761Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.763Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.764Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:54.764Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:54.765Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:54.765Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:54.769Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.770Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.772Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:54.772Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:54.772Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:54.773Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:54.784Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Removed page=6563fb37-bd44-4775-ae2c-953c15404200 from context=926b3ecc-8acc-4f49-9f80-3a66564e8296 page stack"}
+{"level":30,"time":"2023-04-05T13:49:54.806Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:54.814Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.814Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:54.820Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:54.821Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:54.824Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:54.824Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-04-05T13:49:54.832Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:54.959Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Video path: undefined"}
+{"level":30,"time":"2023-04-05T13:49:54.959Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:55.538Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method newPage"}
+{"level":30,"time":"2023-04-05T13:49:55.545Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method click"}
+{"level":30,"time":"2023-04-05T13:49:55.545Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //a[@href=\"dispense\"] in page."}
+{"level":30,"time":"2023-04-05T13:49:55.715Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method click"}
+{"level":30,"time":"2023-04-05T13:49:55.718Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:55.718Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Strict mode is enabled, find Locator with //div[contains(@class,'display-4 font-weight-bold')] in page."}
+{"level":30,"time":"2023-04-05T13:49:55.859Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Retrieved text for element //div[contains(@class,'display-4 font-weight-bold')] containing Cash dispensed"}
+{"level":30,"time":"2023-04-05T13:49:55.859Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getText"}
+{"level":30,"time":"2023-04-05T13:49:55.865Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:55.867Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:55.868Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:55.870Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:55.871Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:55.871Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:55.871Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:55.875Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:55.877Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:55.879Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:55.880Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:55.881Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:55.881Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-04-05T13:49:55.883Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:55.884Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:55.885Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active context"}
+{"level":30,"time":"2023-04-05T13:49:55.886Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changing current active page"}
+{"level":30,"time":"2023-04-05T13:49:55.886Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Changed active page"}
+{"level":30,"time":"2023-04-05T13:49:55.887Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:55.898Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Removed page=4e011cdd-f7d9-4e93-b905-5fe8f0a7a4bf from context=8ae92bbd-734e-45ae-a15d-78e1c105deca page stack"}
+{"level":30,"time":"2023-04-05T13:49:55.920Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-04-05T13:49:55.929Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:55.929Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-04-05T13:49:57.450Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-04-05T13:49:57.562Z","pid":23600,"hostname":"LAPTOP-HFRNCLAS","msg":"End of node method closeAllBrowsers"}
