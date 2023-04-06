@@ -8,6 +8,7 @@ Test Template   Verify_Post_insertMultiplePerson
 
 *** Test Cases ***
 Verify_Post_insertMultiplePerson_${TC}
+    [Tags]      002_AC1
 
 *** Keywords ***
 Verify_Post_insertMultiplePerson_
