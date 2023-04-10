@@ -31,29 +31,28 @@ The following supporting librarys are used in this suite alongside some of the b
 
 ### How do I get set up? ###
 
-1. Clone Repo for [The Oppenheimer Project](https://github.com/strengthandwill/oppenheimer-project-dev)
+1. Clone or download this repository [The Oppenheimer Project](https://github.com/strengthandwill/oppenheimer-project-dev)
 2. Install [Python 3](https://python.org/)
-3. Clone or download this repository
-4. To run the application, issue the following to your terminal. Replace `{path-to-this-jar}` with your actual path to the folder containing the jar 
+3. To run the application, issue the following to your terminal. Replace `{path-to-this-jar}` with your actual path to the folder containing the jar 
 ```
 java -jar {path-to-this-jar}/OppenheimerProjectDev.jar
 ```
-5. Give it a min or two to boot up and you should be able to visit the app and API interface here:
+4. Give it a min or two to boot up and you should be able to visit the app and API interface here:
 ```
 http://localhost:8080/
 http://localhost:8080/swagger-ui.html
 ```
-6. Using the command line navigate in to the project folder and execute the command 
+5. Using the command line navigate in to the project folder and execute the command 
 ```
 pip install -r requirements.txt
 ``` 
    this will install robot framework and the required supporting library's and their dependencies
 
-7. Once everything has been installed you can run the test suite from the command line in the projects folder with the command
+6. Once everything has been installed you can run the test suite from the command line in the projects folder with the command
 ```
 robot testscripts
 ``` 
-8. After the execution you can find '''report.html''' file, which contains report of test execution ![image](https://user-images.githubusercontent.com/20729169/230257290-1c3d8daf-e80c-4ba9-a833-288cbf1e6d2e.png)
+7. After the execution you can find '''report.html''' file, which contains report of test execution ![image](https://user-images.githubusercontent.com/20729169/230257290-1c3d8daf-e80c-4ba9-a833-288cbf1e6d2e.png)
 
 
 
